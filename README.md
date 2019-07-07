@@ -7,7 +7,8 @@ Twentemilieu garbage collection sensor for Home Assistant
 
 configuration.yaml
 
-```sensor:
+```
+sensor:
   - platform: twentemilieu
     postcode: 
     huisnummer: 
