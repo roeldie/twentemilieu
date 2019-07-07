@@ -1,0 +1,8 @@
+{
+  "domain": "twentemilieu",
+  "name": "Twentemilieu garbage collection sensor",
+  "documentation": "https://github.com/roeldie/twentemilieu/blob/master/README.md",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
