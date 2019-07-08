@@ -1,4 +1,4 @@
-# twentemilieu
+# Gemeente Hellendoorn
 
 based on https://github.com/yniezink/twentemilieu
 
@@ -9,7 +9,7 @@ configuration.yaml
 
 ```
 sensor:
-  - platform: twentemilieu
+  - platform: hellendoorn
     postcode: 
     huisnummer: 
     toevoeging: 
