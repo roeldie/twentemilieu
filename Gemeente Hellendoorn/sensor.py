@@ -84,7 +84,7 @@ def setup_platform(hass, config, add_entities, discovery_info=None):
 class TrashData(object):
     """Fetch data from 2go-mobile API."""
 
-    def __init__(self, postcode, huisnummer, toevoeging, company, startdate, enddate):
+    def __init__(self, postcode, huisnummer, toevoeging, company, startdate, enddate, uniqueAddressID):
         """Initialize."""
         self._postcode = postcode
         self._huisnummer = huisnummer
@@ -92,7 +92,7 @@ class TrashData(object):
         self._company = company
         self._enddate = enddate
         self._startdate = startdate
-        self._addressid = None
+        self._addressid = uniqueAddressID
         self.data = None
 
         """Get the adressID using the postcode, huisnummer, toevoeging and company."""
