@@ -1,6 +1,6 @@
 {
-  "domain": "twentemilieu",
-  "name": "Twentemilieu garbage collection sensor",
+  "domain": "hellendoorn",
+  "name": "hellendoorn garbage collection sensor",
   "documentation": "https://github.com/roeldie/twentemilieu/blob/master/README.md",
   "dependencies": [],
   "codeowners": [],
