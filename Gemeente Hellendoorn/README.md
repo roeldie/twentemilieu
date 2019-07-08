@@ -2,7 +2,7 @@
 
 based on https://github.com/yniezink/twentemilieu
 
-Twentemilieu garbage collection sensor for Home Assistant
+Gemeente Hellendoorn garbage collection sensor for Home Assistant
 
 
 configuration.yaml
