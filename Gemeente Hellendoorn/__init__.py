@@ -1,1 +1,1 @@
-"""Twentemilieu garbage collection sensor"""
+"""hellendoorn garbage collection sensor"""
